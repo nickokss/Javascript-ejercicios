@@ -1,0 +1,155 @@
+body {
+    background-color: #008080;
+}
+
+nav {
+    align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div.cartas1{
+  display: inline-block;
+}
+img.vinte, img.cinco, img.dez{
+  width: 100px;
+  height: 50px;
+}
+img.dous, img.un, img.cent50, img.cent20, img.cent10, img.cent5{
+  width: 50px;
+  height: 50px;
+}
+img:active{
+  border: 3px solid red;
+}
+div#ex9, div#introducido{
+  width: 200px;
+  height: 40px;
+  border: 2px solid;
+  background-color: grey;
+  float:left;
+  text-align: center;
+  padding-top: 20px;
+  margin-left: 5px;
+}
+div#cambio{
+  width: 500px;
+  height: 60px;
+  border: 2px solid;
+  background-color: grey;
+  float:left;
+  padding-top: 20px;
+  margin-left: 5px;
+}
+div.ex9{
+  width: 50px;
+  height: 40px;
+  border: 2px solid;
+  background-color: grey;
+  float:left;
+  text-align: center;
+  padding-top: 20px;
+  margin-left: 5px;
+}
+div.ex92{
+  width: 50px;
+  height: 40px;
+  border: 2px solid;
+  background-color: red;
+  float:left;
+  text-align: center;
+  padding-top: 20px;
+  margin-left: 5px;
+}
+img {
+  border-radius: 10px;
+  width: 60px;
+  height: 130px;
+  margin-left: 10px;
+}
+section {
+    margin-left: 30%;
+    margin-top: 2%;
+    margin-right: 20%;
+}
+
+footer {
+    width: auto;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+div.menu {
+    margin-left: 2%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+div.activo, span.activo {
+    color: #800000;
+}
+
+div#enunciado, div#datos, div#resultado {
+    font-style: bold;
+}
+
+div.boton {
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #1E90FF;
+    font: 20px verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+div p {
+    text-align: justify;
+    font-size: 16px;
+    padding: 10px 30px;
+}
+
+span.resultado {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+span.correcto {
+    color: lime;
+}
+
+.centro {
+    text-align: center;
+}
+
+.lineas {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: #000000;
+    border-width: 10px;
+}
+
+.lineas2 {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: #000000;
+    margin-top: 100px;
+    border-width: 5px;
+}
+
+.nave {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.numeros {
+    margin-top: 5px;
+}
+
+.esp {
+    margin-top: 5px;
+}
