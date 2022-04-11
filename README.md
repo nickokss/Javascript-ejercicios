@@ -1,2 +1,2 @@
 # Javascript-ejercicios
-ejercicios de javascript
+Ejercicios de javascript. Práctica con un juego de baraja.
